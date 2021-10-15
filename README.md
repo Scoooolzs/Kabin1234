@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kabin1234" alt="kabin1234" /></a> </p>
 
-- 🔭 I’m currently working on [ST MANAGER](https://dsc.gg/logistack)
+- 🔭 I’m currently Cloning [Milrato](https://dsc.gg/logistack)
 
 - 🌱 I’m currently learning **Python**
 
